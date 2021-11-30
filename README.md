@@ -7,3 +7,4 @@
 - J'ai une image de Sylvain
 - Elle est centrée
 - Le style est dans index.html
+- Je l'ai modifié
